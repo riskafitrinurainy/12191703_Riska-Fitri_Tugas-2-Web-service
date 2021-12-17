@@ -1,1 +1,4 @@
-# 12191703_Riska-Fitri_Tugas-2-Web-service
+# ci-restserver
+Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
+
+My alternate version https://github.com/ardisaurus/old-rest-ci
